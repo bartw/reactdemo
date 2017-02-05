@@ -6,7 +6,7 @@
 
 ## Identify components
 
-![alt text](identifiedcomponents.png "identiefied components")
+![alt text](identifiedcomponents.png "identified components")
 
 ## [Build pipeline](buildpipeline)
 
