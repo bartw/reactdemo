@@ -2,7 +2,11 @@
 
 ## Mock
 
+![alt text](mock.png "mock")
+
 ## Identify components
+
+![alt text](identifiedcomponents.png "identiefied components")
 
 ## [Build pipeline](buildpipeline)
 
